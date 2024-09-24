@@ -7,26 +7,8 @@
  * If you are looking for production-ready output files, see mode: "production" (https://webpack.js.org/configuration/mode/).
  */
 /******/ (() => { // webpackBootstrap
-/******/ 	var __webpack_modules__ = ({
-
-/***/ "./mysite/helloapp/static/helloapp/js/main.js":
-/*!****************************************************!*\
-  !*** ./mysite/helloapp/static/helloapp/js/main.js ***!
-  \****************************************************/
-/***/ (() => {
-
-eval("document.addEventListener(\"DOMContentLoaded\", function() {\n    document.getElementById(\"hello\").style.color = \"blue\";\n});\n\n\n//# sourceURL=webpack://webpack-django-hello-world/./mysite/helloapp/static/helloapp/js/main.js?");
-
-/***/ })
-
-/******/ 	});
-/************************************************************************/
+/******/ 	"use strict";
 /******/ 	
-/******/ 	// startup
-/******/ 	// Load entry module and return exports
-/******/ 	// This entry module can't be inlined because the eval devtool is used.
-/******/ 	var __webpack_exports__ = {};
-/******/ 	__webpack_modules__["./mysite/helloapp/static/helloapp/js/main.js"]();
 /******/ 	
 /******/ })()
 ;
